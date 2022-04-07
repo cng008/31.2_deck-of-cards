@@ -20,6 +20,7 @@ This application was created using data from the [<ins>**Deck of Cards API**</in
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Axios](https://axios-http.com/docs/intro)
 - [jQuery](https://api.jquery.com)
 - [VSCode](https://code.visualstudio.com/docs)
 - [Bootswatch](https://bootswatch.com/vapor/)
