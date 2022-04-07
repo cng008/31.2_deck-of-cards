@@ -4,9 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://bootswatch.com/5/vapor/bootstrap.min.css">
     <title>Deck of Cards</title>
 </head>
-<body>
-    
+<body style="background:rgb(24,11,50);">
+    <div class="container text-center mt-5">
+        <h1>Deck of Cards</h1>
+        <button id="draw-btn" class="btn btn-outline-primary mt-2">Draw</button>
+        <p class="text-warning mt-3"></p>
+        <div id="card-container" style="margin-top:5em;">
+            <!-- cards show up here -->
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
 </body>
 </html>
