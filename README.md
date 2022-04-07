@@ -1,5 +1,11 @@
 # **Deck of Cards**
 
+### **WARNING**
+
+> Mixed Content: The page at '<URL>' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint '<URL>'. This request has been blocked; the content must be served over HTTPS.
+
+_An error occurs with Github security. The Deck of Cards API does not use HTTPS and will not work otherwise. The only way to run the site is to clone the repository onto your local computer or to 'Allow Insecure Content' in your browser settings._
+
 ## **Overview**
 
 The main feature of this application is to draw a random card from a deck. Once all the cards have been revealed, a user can shuffle the deck to show a new arrangement of cards.
